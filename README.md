@@ -25,7 +25,7 @@ A comprehensive agricultural loan management and progress tracking system design
 - 👨‍🌾 **Farmers**: Apply for loans, track repayments, view progress
 - 🏦 **Bank Officers**: Approve/reject loans, monitor repayments
 - 🛒 **Buyers**: View farmer produce, track transactions
-- 👨‍💼 **Admins**: Manage users, view system analytics
+- 👨‍💼 **Admins**: Manage users, view system analytics Dashboard
 
 ### Core Functionality
 - **Loan Management**: Application, approval, and tracking
