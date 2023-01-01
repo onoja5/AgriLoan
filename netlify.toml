@@ -1,0 +1,8 @@
+[build]
+  publish = "."  # Static files directory
+  functions = "netlify/functions"  # Functions directory
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
