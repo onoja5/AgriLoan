@@ -4,6 +4,9 @@
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
 
+![System Dashboard Preview](public/screenshot.png)
+
+
 A comprehensive agricultural loan management and progress tracking system designed to streamline financial operations for farmers, bank officers, buyers, and administrators.
 
 ## Table of Contents

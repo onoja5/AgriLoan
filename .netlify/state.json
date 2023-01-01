@@ -1,19 +1,19 @@
 {
 	"geolocation": {
 		"data": {
-			"city": "Lagos",
+			"city": "Abuja",
 			"country": {
 				"code": "NG",
 				"name": "Nigeria"
 			},
 			"subdivision": {
-				"code": "LA",
-				"name": "Lagos"
+				"code": "FC",
+				"name": "FCT"
 			},
 			"timezone": "Africa/Lagos",
-			"latitude": 6.4474,
-			"longitude": 3.3903
+			"latitude": 9.0567,
+			"longitude": 7.4969
 		},
-		"timestamp": 1750848887503
+		"timestamp": 1751638448284
 	}
 }
